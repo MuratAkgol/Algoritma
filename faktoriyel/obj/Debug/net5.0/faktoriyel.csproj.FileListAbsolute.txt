@@ -1,0 +1,16 @@
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\bin\Debug\net5.0\faktoriyel.exe
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\bin\Debug\net5.0\faktoriyel.deps.json
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\bin\Debug\net5.0\faktoriyel.runtimeconfig.json
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\bin\Debug\net5.0\faktoriyel.runtimeconfig.dev.json
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\bin\Debug\net5.0\faktoriyel.dll
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\bin\Debug\net5.0\faktoriyel.pdb
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\faktoriyel.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\faktoriyel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\faktoriyel.AssemblyInfoInputs.cache
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\faktoriyel.AssemblyInfo.cs
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\faktoriyel.dll
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\refint\faktoriyel.dll
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\faktoriyel.pdb
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\faktoriyel.genruntimeconfig.cache
+C:\Users\huawei\Desktop\faktoriyel\faktoriyel\obj\Debug\net5.0\ref\faktoriyel.dll

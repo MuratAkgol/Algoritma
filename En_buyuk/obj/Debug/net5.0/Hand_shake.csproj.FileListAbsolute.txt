@@ -1,0 +1,16 @@
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\bin\Debug\net5.0\Hand_shake.exe
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\bin\Debug\net5.0\Hand_shake.deps.json
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\bin\Debug\net5.0\Hand_shake.runtimeconfig.json
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\bin\Debug\net5.0\Hand_shake.runtimeconfig.dev.json
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\bin\Debug\net5.0\Hand_shake.dll
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\bin\Debug\net5.0\Hand_shake.pdb
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\Hand_shake.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\Hand_shake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\Hand_shake.AssemblyInfoInputs.cache
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\Hand_shake.AssemblyInfo.cs
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\Hand_shake.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\Hand_shake.dll
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\refint\Hand_shake.dll
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\Hand_shake.pdb
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\Hand_shake.genruntimeconfig.cache
+C:\Users\huawei\Desktop\faktoriyel\En_buyuk\obj\Debug\net5.0\ref\Hand_shake.dll

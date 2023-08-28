@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "En_buyuk/1.0.0": {
+        "runtime": {
+          "En_buyuk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "En_buyuk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
