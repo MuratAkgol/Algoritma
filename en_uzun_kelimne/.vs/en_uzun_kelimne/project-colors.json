@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d24573f-08a1-4510-b06e-2e0ffd9261bc": {
+      "ProjectGuid": "3d24573f-08a1-4510-b06e-2e0ffd9261bc",
+      "DisplayName": "en_uzun_kelimne",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

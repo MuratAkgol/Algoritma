@@ -1,0 +1,16 @@
+C:\Users\huawei\Desktop\Projelerim\en_uzun_kelimne\en_uzun_kelimne\bin\Debug\en_uzun_kelimne.exe.config
+C:\Users\huawei\Desktop\Projelerim\en_uzun_kelimne\en_uzun_kelimne\bin\Debug\en_uzun_kelimne.exe
+C:\Users\huawei\Desktop\Projelerim\en_uzun_kelimne\en_uzun_kelimne\bin\Debug\en_uzun_kelimne.pdb
+C:\Users\huawei\Desktop\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.csproj.SuggestedBindingRedirects.cache
+C:\Users\huawei\Desktop\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.exe
+C:\Users\huawei\Desktop\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.pdb
+D:\C# kurs\Projelerim\en_uzun_kelimne\en_uzun_kelimne\bin\Debug\en_uzun_kelimne.exe.config
+D:\C# kurs\Projelerim\en_uzun_kelimne\en_uzun_kelimne\bin\Debug\en_uzun_kelimne.exe
+D:\C# kurs\Projelerim\en_uzun_kelimne\en_uzun_kelimne\bin\Debug\en_uzun_kelimne.pdb
+D:\C# kurs\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.csproj.AssemblyReference.cache
+D:\C# kurs\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.csproj.SuggestedBindingRedirects.cache
+D:\C# kurs\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.csproj.CoreCompileInputs.cache
+D:\C# kurs\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.exe
+D:\C# kurs\Projelerim\en_uzun_kelimne\en_uzun_kelimne\obj\Debug\en_uzun_kelimne.pdb
